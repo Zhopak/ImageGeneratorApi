@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "C4yAVqdyoic=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sefan\\source\\repos\\ImageGeneratorApi\\ImageGeneratorApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sefan\\.nuget\\packages\\hpph\\1.0.0\\hpph.1.0.0.nupkg.sha512",
+    "C:\\Users\\sefan\\.nuget\\packages\\hpph.skiasharp\\1.0.0\\hpph.skiasharp.1.0.0.nupkg.sha512",
+    "C:\\Users\\sefan\\.nuget\\packages\\jetbrains.annotations\\2025.2.0\\jetbrains.annotations.2025.2.0.nupkg.sha512",
+    "C:\\Users\\sefan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\sefan\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\sefan\\.nuget\\packages\\skiasharp\\2.88.8\\skiasharp.2.88.8.nupkg.sha512",
+    "C:\\Users\\sefan\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.8\\skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "C:\\Users\\sefan\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.8\\skiasharp.nativeassets.win32.2.88.8.nupkg.sha512",
+    "C:\\Users\\sefan\\.nuget\\packages\\stablediffusion.net\\7.0.0\\stablediffusion.net.7.0.0.nupkg.sha512",
+    "C:\\Users\\sefan\\.nuget\\packages\\stablediffusion.net.backend.vulkan\\7.0.0\\stablediffusion.net.backend.vulkan.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

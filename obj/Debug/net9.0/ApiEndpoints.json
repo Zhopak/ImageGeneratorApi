@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "ImageGeneratorApi.Controllers.ImageController",
+    "Method": "Generate",
+    "RelativePath": "api/Image/generate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ImageGeneratorApi.Models.GenerateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ImageGeneratorApi.Controllers.ImageController",
+    "Method": "GetResult",
+    "RelativePath": "api/Image/result/{taskId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
